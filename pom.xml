@@ -5,7 +5,7 @@
 
     <groupId>com.github.adriens</groupId>
     <artifactId>basic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>mon-1012.nc</name>
