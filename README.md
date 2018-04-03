@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/adriens/mon-1012.nc.svg?branch=master)](https://travis-ci.org/adriens/mon-1012.nc)
+[![Dependency Status](https://beta.gemnasium.com/badges/github.com/adriens/mon-1012.nc.svg)](https://beta.gemnasium.com/projects/github.com/adriens/mon-1012.nc)
 
 # mon-1012.nc
 
