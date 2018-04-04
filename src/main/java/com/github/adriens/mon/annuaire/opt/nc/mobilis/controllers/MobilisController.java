@@ -23,7 +23,7 @@ public class MobilisController {
     @Autowired
     MobilisService mobilisService;
         
-    @RequestMapping(value={"/mobilis/{name}", "/{name}"})
+    @RequestMapping(value={"/mobilis/{name}"})
     public List<MobilisContact> getMobilis(
     @PathVariable(value = "name") String name
     ) throws Exception {
